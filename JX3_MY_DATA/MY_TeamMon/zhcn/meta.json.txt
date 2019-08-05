@@ -1,5 +1,7 @@
-﻿name:【断水流】数据
-author：壹只路过的喵
-version：20190805
-data_url：
-about：readme.md
+{
+  "name": "电一长安城【断水流】",
+  "author": "壹只路过的喵",
+  "version": "20190805",
+  "data_url": "./data2.jx3dat",
+  "about": "../readme.md"
+}
